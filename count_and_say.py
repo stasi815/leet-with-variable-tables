@@ -28,4 +28,8 @@ def count_and_say(num: int):
         i = i + 1
     return number
 
+print(count_and_say(1))
+print(count_and_say(2))
 print(count_and_say(3))
+print(count_and_say(4))
+print(count_and_say(5))
